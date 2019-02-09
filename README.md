@@ -14,8 +14,8 @@ npm -v
 
 In the command terminal, navigate to your project folder, then use the following commands: 
 ```shell
-npm install -g gulp@3.0.0
-npm install --save-dev gulp@3.0.0
+npm install -g gulp@3.9.1
+npm install --save-dev gulp@3.9.1
 ```
 
 ## Gulp commands:
