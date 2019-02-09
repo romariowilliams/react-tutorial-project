@@ -12,8 +12,7 @@ You can verify this by using the command:
 npm -v
 ```
 
-To install gulp,
-In the command terminal, navigate to your project folder, then use the following commands: 
+To install gulp, use the command terminal to navigate to your project folder, then run the following:
 ```shell
 npm install -g gulp@3.9.1
 npm install --save-dev gulp@3.9.1
