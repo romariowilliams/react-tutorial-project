@@ -1,4 +1,4 @@
-#[React Tutorial Project]
+# React Tutorial Project
 
 ## Requirements
 
