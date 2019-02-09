@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gulp-changed": "^3.2.0",
     "gulp-clean-css": "^4.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
@@ -27,6 +28,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gulp": "^4.0.0"
+    "gulp": "^3.9.1"
   }
 }
