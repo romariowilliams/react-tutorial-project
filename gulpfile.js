@@ -26,3 +26,11 @@ gulp.task('compile_scss', function(){
   .pipe(changed(SCSS_DEST))
   .pipe(gulp.dest(SCSS_DEST));
 });
+
+//detect changes in SCSS_SRC
+gulp.task('watch_scss',function(){
+  gulp.watch(SCSS_SRC, ['compile_scss']);
+});
+
+// run tasks
+gulp.task('default', ['watch_scss']);
