@@ -18,7 +18,7 @@ npm install -g gulp@3.0.0
 npm install --save-dev gulp@3.0.0
 ```
 
-### Gulp commands:
+## Gulp commands:
 ### `gulp`
 Runs the commands in the gulpfile. The gulpfile has been made in a way to grab all the SASS files and convert each to a minified CSS file. 
 
