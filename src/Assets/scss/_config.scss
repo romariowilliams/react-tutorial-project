@@ -2,6 +2,7 @@
 Vars
 */
 $black: #010000;
+$blue : #3b5998;
 $white: #ffffff;
 $lightGrey: #e6e6e6;
 $darkGrey: #333;
@@ -53,6 +54,7 @@ a{
     color:$red;
     @include transition(.4s ease-in-out);
   }
+
 
 }
 
