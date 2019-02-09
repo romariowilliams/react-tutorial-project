@@ -2,10 +2,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Requirements
 
-You will need:
-### `nodejs and npm`
-### `gulp`
+### `Install nodejs and npm`
+This can be downloaded here: https://nodejs.org/en/
 
+### `Install gulp`
+Ensure that you have installed npm.  
+You can verify this by using the command:
+```shell
+npm -v
+```
+
+In the command terminal, navigate to your project folder, then use the following commands: 
+```shell
+npm install -g gulp@3.0.0
+npm install --save-dev gulp@3.0.0
+```
 
 ### Gulp commands:
 ### `gulp`
