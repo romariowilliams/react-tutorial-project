@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 //components
 import Header from './Components/headerComponent/header';
-import Footer from './Components/headerComponent/footer';
+import Footer from './Components/footerComponent/footer';
 import Home from './Components/pages/home';
 //includes
 import './Assets/css/default.min.css';
