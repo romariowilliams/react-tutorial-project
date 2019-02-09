@@ -23,7 +23,7 @@ header {
 
   nav {
     position: absolute;
-    top: 50%; left: 15px;
+    top: 50%; right: 15px;
     @include translateY(-50%);
 
     ul li{
