@@ -18,6 +18,12 @@ npm install -g gulp@3.9.1
 npm install --save-dev gulp@3.9.1
 ```
 
+### `Install react-router-dom`
+Use the command terminal to navigate to your project folder, then run the following:
+```shell
+npm install react-router-dom
+```
+
 ## Gulp commands:
 ### `gulp`
 Runs the commands in the gulpfile. The gulpfile has been made in a way to grab all the SASS files and convert each to a minified CSS file. 
