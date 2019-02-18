@@ -18,6 +18,8 @@ npm install -g gulp@3.9.1
 npm install --save-dev gulp@3.9.1
 ```
 
+### `Install gulp requirements`
+
 ### `Install react-router-dom`
 Use the command terminal to navigate to your project folder, then run the following:
 ```shell
