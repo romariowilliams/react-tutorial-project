@@ -19,6 +19,15 @@ npm install --save-dev gulp@3.9.1
 ```
 
 ### `Install gulp requirements`
+The gulpfile we will use will require that you install the following: gulp-sass, gulp-clean-css, gulp-uglify, gulp-rename, and gulp-changed.<br/>
+Yse the command terminal to navigate to your project folder, then run the following:
+```shell
+npm install gulp-sass
+npm install gulp-clean-css
+npm install gulp-uglify
+npm install gulp-rename
+npm install gulp-changed
+```
 
 ### `Install react-router-dom`
 Use the command terminal to navigate to your project folder, then run the following:
